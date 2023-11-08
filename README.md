@@ -10,3 +10,5 @@ By default it starts with Google page and keeps track of all the pages you visit
 It can show all pages that are Available from the current Website.
 
 If you are Using Selenium v4 then changes in the code may be required.
+
+This is only for Educational Purposes and not to be used for any other reason.
